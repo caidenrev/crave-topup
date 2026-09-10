@@ -1,0 +1,6 @@
+{
+  "name": "Pojan Topup",
+  "description": "Platform top up game, voucher, dan item game terpercaya dan cepat dengan nuansa elegan navy dan putih.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
